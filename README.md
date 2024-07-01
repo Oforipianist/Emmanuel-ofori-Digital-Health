@@ -54,4 +54,4 @@ The app should open in your web browser, allowing you to interact with the healt
 Note
 This Shiny app is a simple demonstration of creating interactive visualizations and summary statistics for a health-related dataset. It can be extended with additional features and more complex analyses as needed.
 
-# Emmanuel-ofori-Digital-Health
+# By Emmanuel Asante Ofori
